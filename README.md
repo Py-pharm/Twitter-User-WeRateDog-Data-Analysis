@@ -23,7 +23,21 @@ After combining the datasets, it was trimmed down to 1906 rows and twelve column
 analysis was carried out to answer the following questions;
  
  	- What is the top source, users tweeted from?
+  ![tweet source](https://user-images.githubusercontent.com/104560999/183890411-5d706935-974b-498b-b19e-7caf19b3affe.png)
+
+  
  	- The top 10 most popular dog breed in the tweets
+  ![popular dog breeds](https://user-images.githubusercontent.com/104560999/183890495-3cef9e5e-6cf0-4132-8aa4-3772fcaff7fa.png)
+
+  
  	- Top rated dog based on retweets
+  ![top rated dog](https://user-images.githubusercontent.com/104560999/183890590-09447a92-8f47-4540-8c7a-d21d36769016.jpg)
+
+  
  	- Top rated dog based on favorite count
+  ![favorite count](https://user-images.githubusercontent.com/104560999/183890747-bfcb665f-3d65-4b9d-9bc8-6b1ba0eaa7b0.jpg)
+
+  
  	- The winner of the contest, which is top rated based on dog rating and retweet count and favorite count
+  ![winner](https://user-images.githubusercontent.com/104560999/183890809-d3415bc1-956f-421c-84ff-120213b2a4e9.jpg)
+
