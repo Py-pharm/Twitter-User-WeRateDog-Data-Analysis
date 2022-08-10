@@ -38,6 +38,6 @@ analysis was carried out to answer the following questions;
   ![favorite count](https://user-images.githubusercontent.com/104560999/183890747-bfcb665f-3d65-4b9d-9bc8-6b1ba0eaa7b0.jpg)
 
   
- ### The winner of the contest, which is top rated based on dog rating and retweet count and favorite count
+ ### The winner of the contest, which is top rated dog based on rating, retweets count and favorite counts
   ![winner](https://user-images.githubusercontent.com/104560999/183890809-d3415bc1-956f-421c-84ff-120213b2a4e9.jpg)
 
